@@ -1,4 +1,4 @@
-from newCouplings import *
+from couplings import *
 from SMParams import *
 from potential import *
 
